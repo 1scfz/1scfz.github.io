@@ -1,10 +1,8 @@
 var quotes = [
-    "Make it work, make it right, make it fast",
-    "99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code...",
-    "Remember that there is no code faster than no code.",
-    "Deleted code is debugged code.",
-    "If you write your code as cleverly as possible, then you, by definition, are not smart enough to debug it.",
-    "It's not a bug, it's an undocumented feature!"
+    "Buy your yearbook NOW",
+    "Buy your yearbook. Like, now.",
+    "If you're a senior, don't forget to check out our Senior To-Do List",
+    "If you have any pictures to upload to the yearbook, go to <LINK HERE>"
 ]
 
 function newQuote() {
