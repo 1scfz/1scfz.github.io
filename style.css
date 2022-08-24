@@ -65,8 +65,8 @@ li a.button1 {
     transition: all 0.2s;
 }
 li a.button1:hover {
-    color:#000000;
-    background-color:#F8F8FF;
+    color:#F8F8FF;
+    background-color:#000000;
 }
 .audiowide {
     font-family: "Audiowide", sans-serif;
