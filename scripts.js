@@ -1,3 +1,3 @@
 function navLoad(){
-$("#navph").load("nav.html");
+    $("#navph").load("nav.html");
 }
