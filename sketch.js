@@ -11,7 +11,7 @@ function preload() {
   //   tileImages[i] = loadImage(`${path}/tile${i}.png`);
   // }
 
-  const path = 'tiles/circuit-coding-train';
+  const path = 'tiles/circuit';
   for (let i = 0; i < 13; i++) {
     tileImages[i] = loadImage(`${path}/${i}.png`);
   }
