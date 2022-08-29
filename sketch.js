@@ -11,7 +11,7 @@ function preload() {
   //   tileImages[i] = loadImage(`${path}/tile${i}.png`);
   // }
 
-  const path = 'tiles/circuit';
+  const path = 'tiles/roads';
   for (let i = 0; i < 13; i++) {
     tileImages[i] = loadImage(`${path}/${i}.png`);
   }
