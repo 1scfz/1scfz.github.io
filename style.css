@@ -38,6 +38,13 @@ a.button1:hover{
 .center {
     text-align: center;
 }
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 ul {
     background-color: transparent;
     position: fixed;
