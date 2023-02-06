@@ -1,9 +1,9 @@
 var quotes = [
-    "Buy your yearbook NOW",
-    "Buy your yearbook. Like, now.",
-    "If you're a senior, don't forget to check out our <a href=\"todo.html\">Senior To-Do List</a>",
-    "If you have any pictures to upload to the yearbook, go to <a href=\"hjeshare.com\">hjeshare.com</a>",
-    "Get 'em while they're hot!"
+    "Hey, I\'m StudioWack",
+    "StudioWack, Nick here",
+    "Don\'t hack me please",
+    "This is the github repository: <a href=\"https://github.com/1scfz/1scfz.github.io/\">GitHub</a>",
+    "I don't use Wix or any drag and drop website builders!"
 ]
 
 function newQuote() {
